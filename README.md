@@ -1,4 +1,4 @@
-```md
+
 # 🏠 Home Inventory & Insurance Claim Assistant
 
 An AI-powered web application that helps users keep track of household items by analyzing images, estimating their value, and generating detailed reports for insurance claims. Built with **Next.js, Supabase, and Gemini API**, this app makes it easy to document possessions and streamline insurance claims.
